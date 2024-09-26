@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarakhi20
+- 👋 Hi, I’m @sarakhi
 - 👀 I’m interested in ...frontend developer
 - 🌱 I’m currently learning ...MERN
 - 💞️ I’m looking to collaborate on ...
